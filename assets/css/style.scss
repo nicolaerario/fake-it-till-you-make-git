@@ -1,4 +1,4 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}", 'minima/initialize';
+@import '{{ site.theme }}', 'minima/initialize';
