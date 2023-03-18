@@ -1,2 +1,3 @@
-# fake-it-till-you-make-git
-My opinionated approach to Git and GitHub
+# Fake it till you make Git
+
+My (opinionated) approach to Git and GitHub
