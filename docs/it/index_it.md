@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Indice
+title: Home (Italian)
 ---
 
 > [English Version](../../index.md)

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Index
+title: Home
 ---
 
 > [Versione Italiana](/docs/it/index_it.md)
