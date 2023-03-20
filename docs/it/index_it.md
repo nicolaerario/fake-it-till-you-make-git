@@ -3,7 +3,7 @@ layout: home
 title: Indice
 ---
 
-> [English Version](/index.md)
+> [English Version](../../index.md)
 
 - Capitolo
 
