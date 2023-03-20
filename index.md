@@ -1,5 +1,18 @@
 ---
-layout: base
+layout: home
+title: Index
 ---
 
-# Fake it till you make `Git`
+> [Versione Italiana](/docs/it/index_it.md)
+
+- Chapter
+
+  - Paragraph
+  - Paragraph
+  - Paragraph
+
+- Chapter
+
+  - Paragraph
+  - Paragraph
+  - Paragraph
