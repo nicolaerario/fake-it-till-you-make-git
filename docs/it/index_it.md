@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home (Italian)
+title: Home (🚩ITA)
 ---
 
 > [English Version](../../index.md)
