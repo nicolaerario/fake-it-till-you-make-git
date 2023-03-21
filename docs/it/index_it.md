@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Home (🚩ITA)
+title: Home (ITA)
 ---
 
 > [English Version](../../index.md)
 
-- Capitolo
+- Git branching model and flow
 
-  - Paragrafo
+  - Features fantastiche e dove lavorarle (wip)
   - Paragrafo
   - Paragrafo
 
