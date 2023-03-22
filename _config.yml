@@ -17,7 +17,6 @@ minima:
 
 header_pages:
   - index.md
-  - blog.md
 
 plugins:
   - jekyll-remote-theme
