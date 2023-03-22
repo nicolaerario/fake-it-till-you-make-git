@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-> [Versione Italiana](/_pages/it/index_it.md)
+> [Versione Italiana](/docs/it/index_it.md)
 
 - First steps
 
@@ -14,7 +14,7 @@ title: Home
 - Git branching model and flow
 
   - Branching strategies
-  - [Fantastic Features and where to work them - Issue, Branch, PR](/_pages/en/issue-pr-branch.md)
+  - [Fantastic Features and where to work them - Issue, Branch, PR](/docs/en/issue-pr-branch.md)
   - Hotfixes
   - Conventional commits
   - Releases
