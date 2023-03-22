@@ -23,3 +23,5 @@ header_pages:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+show_excerpts: true
