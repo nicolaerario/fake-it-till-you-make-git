@@ -14,6 +14,7 @@ minima:
   social_links:
     - { platform: github, user_url: 'https://github.com/nicolaerario' }
     - { platform: linkedin, user_url: 'https://www.linkedin.com/in/nicolaerario/' }
+  date_format: '%e %b %Y'
 
 header_pages:
   - index.md
