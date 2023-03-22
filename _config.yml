@@ -17,10 +17,7 @@ minima:
 
 header_pages:
   - index.md
-  - /docs/it/index_it.md
 
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-
-paginate: 10
