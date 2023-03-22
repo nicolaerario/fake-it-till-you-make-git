@@ -17,11 +17,10 @@ minima:
 
 header_pages:
   - index.md
-  - index_it.md
+  - /docs/it/index_it.md
 
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
 paginate: 10
-paginate_path: '/page:num/'
