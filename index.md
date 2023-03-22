@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: home
 title: Home
 ---
-
-> [Versione Italiana](/it)
 
 - First steps
 

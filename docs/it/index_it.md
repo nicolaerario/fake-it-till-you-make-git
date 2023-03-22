@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: Home (ITA)
-permalink: /it
 ---
 
 > [English Version](../../index.md)
