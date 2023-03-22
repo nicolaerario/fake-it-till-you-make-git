@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 
-> [Versione Italiana](/docs/it/index_it.md)
+> [Versione Italiana](/it)
 
 - First steps
 
