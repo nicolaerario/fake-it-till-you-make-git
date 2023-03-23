@@ -25,3 +25,9 @@ plugins:
   - jekyll-seo-tag
 
 show_excerpts: true
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      image: assets/images/Fake_it_till_you_make_git.png
