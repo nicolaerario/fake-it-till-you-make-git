@@ -12,9 +12,9 @@ title: Home
 - Git branching model and flow
 
   - Branching strategies
-  - [Fantastic Features and where to work them - Issue, Branch, PR](/docs/en/issue-pr-branch.md)
+  - [Fantastic Features and where to work them - Issue, Feature, PR](/docs/en/issue-pr-branch.md)
+  - [Why your history is like a fix...fax...fox? - Conventional commits](/docs/en/conventional-commits.md)
   - Hotfixes
-  - Conventional commits
   - Releases
 
 - Advanced topics
