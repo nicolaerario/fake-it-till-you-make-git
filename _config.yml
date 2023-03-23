@@ -18,6 +18,7 @@ minima:
 
 header_pages:
   - index.md
+  - docs/it/index_it.md
   - blog.md
 
 plugins:

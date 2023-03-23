@@ -3,8 +3,6 @@ layout: page
 title: Home
 ---
 
-> [Versione Italiana](/docs/it/index_it.md)
-
 - First steps
 
   - Git configurations (install, basic config, advanced config, ...)
