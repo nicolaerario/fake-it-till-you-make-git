@@ -22,6 +22,7 @@ title: Home
   - Git advanced strategies (clean history, disaster recovery, ...)
   - Security (Dependabot, ...)
   - WebHooks
+  - Practice workshop
 
 - Organize team work
 
