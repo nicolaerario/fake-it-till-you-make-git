@@ -2,30 +2,19 @@
 ![Coded by humans](https://img.shields.io/badge/Coded%20by%20humans-100%25-blue)
 [![GH Pages Build](https://github.com/nicolaerario/fake-it-till-you-make-git/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicolaerario/fake-it-till-you-make-git/actions/workflows/pages/pages-build-deployment)
 
-# _Fake it till you make_ `Git`
+# Fake it till you make `Git`
 
 Welcome to "Fake it till you make `Git`" - a resource dedicated to educating people on how to use `Git` and `Github`. This repository is published via `Github Pages` and can be found on [this link](https://nicolaerario.github.io/fake-it-till-you-make-git/), and we hope to help `you` become proficient in using `Git` and `Github`.
 
-## _How to contribute_
+## How to contribute
 
 We welcome `contributions` to this resource from anyone who is interested in helping us `improve` and `expand` our content. If you're interested in contributing, please take a look at our Github repository [issues page](https://github.com/nicolaerario/fake-it-till-you-make-git/issues) and create a `new issue` or make a `pull request` for an existing one. We accept contributions in the form of `bug reports`, `website improvements`, and `new content`. We also welcome `translations` of our existing content into other languages.
 
-## _Create and Edit a_ `Resource Article`
+## Suggest or Expand a `Resource Article`
 
-To create or edit an `article` on our Github repository, follow these steps:
+If you'd like to see a specific argument being explained in this resource or you'd like to go more in depth about some explanation that are already here, you can submit an `Issue` on this repository that will be taken in consideration and worked on. 
 
-- Navigate to the "[docs](https://github.com/nicolaerario/fake-it-till-you-make-git/tree/develop/docs)" directory in the repository.
-- Create a new file named `title-of-the-article.md` all in lowercase and separated by the hyphens.
-- Add this at the start of the article:
-  layout | title | description
-  ------------- | ------------- | -------------
-  page | Your Article Title | A short description of the article
-- Write the article with anything you'd like to hear regarding the theme that you choose.
-- Submit a pull request to have your contribution reviewed.
-
-When creating an article, make sure to follow the `style` used on the rest of the website to ensure that the article is consistent with the rest of this resource.
-
-## _Create a_ `Blog Post`
+## Create a `Blog Post`
 
 To create a `blog post` on our Github repository, follow these steps:
 
@@ -38,9 +27,3 @@ To create a `blog post` on our Github repository, follow these steps:
 - Submit a pull request to have your contribution reviewed.
 
 When creating your post, make sure to follow the style used on the rest of the website to ensure that your post is consistent with the rest of this resource.
-
----
-
-## _Contacts_
-
-If you have any question or problem about this project you can always send me an [email](mailto:nicola.erario@gmail.com) and I will try to answer you ASAP :)
