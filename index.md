@@ -15,7 +15,7 @@ title: Home
   - [Fantastic Features and where to work them - Issue, Feature, PR](/docs/en/issue-pr-branch.md)
   - [Why your history is like a fix...fax...fox? - Conventional commits](/docs/en/conventional-commits.md)
   - Hotfixes
-  - Releases
+  - [Release the power of your code!](/docs/en/release-flow.md)
 
 - Advanced topics
 
