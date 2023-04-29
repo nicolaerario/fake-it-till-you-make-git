@@ -32,3 +32,5 @@ defaults:
       path: ''
     values:
       image: assets/images/Fake_it_till_you_make_git.png
+
+include: ['docs/it']
