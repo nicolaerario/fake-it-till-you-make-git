@@ -48,7 +48,7 @@ refactor!: Drop support for Node 6
 
 ## The PR title and its merge commit message
 
-When a `release` is created ([see: Release the power of your code! - Make a Release](/docs/en/release-flow.md)), **GitHub** automatically generate the changelog using the `pull requests` titles.  
+When a `release` is created ([see: Release the power of your code! - Make a Release](release-flow.md)), **GitHub** automatically generate the changelog using the `pull requests` titles.  
 Although the same rules apply as for commits, it is preferable to omit the `type` in the title creation. This will make the changelog more suitable for the layman.
 
 `GitHub` uses a default merge commit message, like: `Merge pull request #123 from username/branch-name`.
@@ -65,7 +65,7 @@ will turn the git log in a _readable **story**_.
 
 ## So, why use Conventional Commits?
 
-- Automatically determining a semantic version bump (based on the types of commits landed). ([see: Versioning](/docs/en/release-flow.md#versioning))
+- Automatically determining a semantic version bump (based on the types of commits landed). ([see: Versioning](release-flow.md#versioning))
 - Communicating the nature of changes to teammates, the public, and other stakeholders.
 - Triggering build and publish processes.
 - Making it easier for people to contribute to your projects, by allowing them to explore a more structured commit history.
