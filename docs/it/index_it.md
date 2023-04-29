@@ -5,8 +5,9 @@ title: Home (ITA)
 
 - Git branching model and flow
 
+  - Branching strategies
   - Features fantastiche e dove lavorarle (wip)
-  - Paragrafo
+  - [Perché la tua history è così caotica? - Conventional commits](/docs/it/conventional-commits.md)
   - Paragrafo
 
 - Capitolo
