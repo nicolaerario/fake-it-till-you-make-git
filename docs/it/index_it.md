@@ -7,7 +7,7 @@ title: Home (ITA)
 
   - Branching strategies
   - Features fantastiche e dove lavorarle (wip)
-  - [Perché la tua history è così caotica? - Conventional commits](/docs/it/conventional-commits.md)
+  - [Perché la tua history è così caotica? - Conventional commits](conventional-commits.md)
   - Paragrafo
 
 - Capitolo
