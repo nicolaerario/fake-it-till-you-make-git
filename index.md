@@ -22,7 +22,8 @@ title: Home
   - Git advanced strategies (clean history, disaster recovery, ...)
   - Security (Dependabot, ...)
   - WebHooks
-  - Practice workshop
+  - Practice workshops
+    - [Git to the Future - Rewrite history with git](https://github.com/nicolaerario/git-to-the-future)
 
 - Organize team work
 
